@@ -3,4 +3,8 @@ pytest-cov==4.1.0
 pylint==3.0.3
 black==24.1.1
 ipython==8.12.3
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> b94a7f50fcb44eb1ad411b005e2f97f622394944
